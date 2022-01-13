@@ -4,4 +4,5 @@ QA_Check_tests
 Autotests_Check
 3r
 23r
-
+Vadim_developer_tasks
+Andrey_Developer_tasks
